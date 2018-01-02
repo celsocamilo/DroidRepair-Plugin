@@ -16,3 +16,4 @@ A execução do plugin é realizada a partir de um botão na *Toolbar* denominad
 Até o momento, a(s) ferramenta(s) suportadas são:
 
  * [*Angelix*](http://angelix.io/)
+  * [*Astor4Android*](https://github.com/kayquesousa/astor4android)
